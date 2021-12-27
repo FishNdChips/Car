@@ -1,0 +1,15 @@
+.accountmodallogin-container {
+  position: absolute;
+  top: 100px;
+  align-self: center;
+  margin-top: 10px;
+}
+
+.register-modal {
+    display: flex;
+    flex-direction: column;
+    background: #212121;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+  }

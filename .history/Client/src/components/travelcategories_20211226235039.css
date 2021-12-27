@@ -1,0 +1,11 @@
+.travelcategories-middle-container {
+  height: 100vh;
+  background-color: #212121;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 50px;
+}
+
+.travelcategories-container {
+  color: white;
+}

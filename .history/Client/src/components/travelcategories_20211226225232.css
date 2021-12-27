@@ -1,0 +1,12 @@
+.travelcategories-middle-container{
+    height:100vh;
+    background-color: #212121;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.travelcategories-container{
+    color:white;
+}

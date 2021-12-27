@@ -1,0 +1,14 @@
+.categorycard-container {
+  padding: 2px 16px;
+  height: 200px;
+  width: 100px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #00ff00;
+  margin-top: 50px;
+  margin-right: 50px;
+}
